@@ -3,7 +3,7 @@
 ![The bow shock G3 in radio and IR](Figure1_2/G3.BOTH.png?raw=true "The bow shock G3 in radio and IR")
 
 ## Based on Van den Eijnden et al. (2022), MNRAS to be submitted.
-The full paper can be found on To Be Added (open access).
+The full paper can be found on https://arxiv.org/abs/2203.10842 (open access).
 
 This repository contains two Jupyter notebooks and all required underlying data to produce the images and calculations in the paper "Radio detections of IR-selected runaway stellar bow shocks". In order to run the Notebooks, check the software requirements below, clone the repository, and run through each cell. The motivations for the performed calculations and plotting settings are also included to certain extend, although we refer to the main paper for full details.
 
