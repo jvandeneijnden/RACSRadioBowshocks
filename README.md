@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/472272277.svg)](https://zenodo.org/doi/10.5281/zenodo.10038514)
+
 # Analysis reproduction repository for the search for bow shock from massive runaway stars in RACS
 
 ![The bow shock G3 in radio and IR](Figure1_2/G3.BOTH.png?raw=true "The bow shock G3 in radio and IR")
